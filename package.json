@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-rscscheme",
+  "version": "0.0.11",
+  "description": "Cordova / PhoneGap Plugin to work arround Apple's iOS9 requirement that URL Schemes be declared and submitted to Apple (via Info.plist file).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rscdennis/cordova-plugin-rscscheme.git"
+  },
+  "keywords": [
+    "RSC"
+  ],
+  "author": "RSC Dennis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rscdennis/cordova-plugin-rscscheme/issues"
+  },
+  "homepage": "https://github.com/rscdennis/cordova-plugin-rscscheme#readme"
+}
